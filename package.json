@@ -1,0 +1,31 @@
+{
+  "name": "pdfinternallink",
+  "version": "1.0.0",
+  "description": "lib to add internal links in pdf",
+  "main": "index.js",
+  "dependencies": {
+    "hummus": "^1.0.108"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnasapkal/pdfInternalLink.git"
+  },
+  "keywords": [
+    "pdfinternallinks",
+    "hyperlink",
+    "pdf",
+    "internal",
+    "link",
+    "internallink"
+  ],
+  "author": "krishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishnasapkal/pdfInternalLink/issues"
+  },
+  "homepage": "https://github.com/krishnasapkal/pdfInternalLink#readme"
+}
