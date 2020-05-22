@@ -23,6 +23,7 @@ const x1 = 10
 const y1 = 20
 const x2 = 55
 const y2 = 50
+const linkText = 'sample link'
 
 const options = {
   color : 'blue'
