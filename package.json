@@ -1,5 +1,5 @@
 {
-  "name": "pdfinternallink",
+  "name": "pdf-internal-link",
   "version": "1.0.0",
   "description": "lib to add internal links in pdf",
   "main": "index.js",

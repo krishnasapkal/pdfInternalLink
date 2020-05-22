@@ -8,13 +8,13 @@ Easy way to add intenal links to existing PDF
 ## GetStarted
 
 ```bash
-npm i hummus-recipe --save
+npm i pdf-internal-link
 ```
 
 ## Usage
 
 ```javascript
-const link = require('pdfinternallink');
+const link = require('pdf-internal-link');
 const inFile = './input.pdf'
 const outFile = './output.pdf'
 const onPage = 5
